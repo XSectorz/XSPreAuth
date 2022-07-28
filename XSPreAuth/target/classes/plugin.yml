@@ -1,0 +1,6 @@
+name: XSPreAuth
+version: '1.0-SNAPSHOT'
+main: xspreauth.xsapi.core.XSPreAuthCore
+api-version: 1.16
+authors: [ PanatXSectorZ ]
+description: Plugin for pre-auth server

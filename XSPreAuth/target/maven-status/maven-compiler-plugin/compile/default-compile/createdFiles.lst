@@ -1,0 +1,5 @@
+xspreauth\xsapi\listeners\onJumpad.class
+xspreauth\xsapi\listeners\onCMD.class
+xspreauth\xsapi\user\user_cd.class
+xspreauth\xsapi\core\XSPreAuthCore.class
+xspreauth\xsapi\tasks\task_check.class
